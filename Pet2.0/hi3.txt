@@ -1,0 +1,5 @@
+dog,Fetch Retriever,2016,5,L
+DOG,Cute Corgi,2008,4,M
+cat,Smokey Cat,2012,false
+DOG,Bernie St. Bernard,2011,4,L
+Dog,Whippie,2012,7,M

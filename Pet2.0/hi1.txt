@@ -1,0 +1,5 @@
+Cat,Prance Tabby,2015,false
+CAT,Nice Kitty,2014,false
+CAT,NIP CAT,2016,true
+cat,Naughty Kitty,2016
+cat,NICE KITTY,2017,true

@@ -1,0 +1,7 @@
+Dag,First Try,2009,3,M
+Dog,Some Dog,2014,5,M
+Dog,Spunky Spaniel,2017,3,M
+DOG,SOME DOG,2016,2,s
+cat,some cat,2012,false
+Dog,second try,2010,4
+dog,Another Dog,2009,3,S
